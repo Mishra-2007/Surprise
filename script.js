@@ -459,13 +459,17 @@ document.addEventListener("DOMContentLoaded", () => {
     const message = `Happy Birthday To One And Only
     Aloo Bhalu Andu Vaidehi Rasgullaaa All In One Anandita :)  💗
     
-    Idk how to express or how to make people feel important or special but hai tum mere liye dono i know ye feel karwana chaiye, naki ase bolna chaiye but mere se nai hota 🥲, mera overthinking or over bolne se har bar tum hurt Hui hai but still tum apna gussa side karke pehle mereko samjhane ka koshish ki har baar
+    Idk how to express or how to make people feel important or special but hai tum mere liye dono i 
+    know ye feel karwana chaiye, naki ase bolna chaiye but mere se nai hota 🥲, i know mera overthinking or 
+    over bolne se har bar tum hurt hui hai but still tum apna gussa side karke pehle mereko samjhane ka koshish ki har baar and everytime
+    You made me a better person :) Thank You For That, Likhne zada ata nhi hai toh bass itna hi🥲
+    
 
 Bhagwan kare tum hamesha khush rahe aur tereko jo chaiye wo mil jaye 
 hosake toh ham dono bhi hamesha sath rahe
  ya jabtak rahe tab tak ham Tereko khush kar sake 🌸
 
- And maybe you are my most Favourite person🌸
+ And idk how or why but you are my most Favourite person🌻🌻
 
 Happy Birthday, Bhalu🐻Forever✨`;
 
@@ -483,4 +487,5 @@ Happy Birthday, Bhalu🐻Forever✨`;
   });
 
 });
+
 
