@@ -467,7 +467,7 @@ document.addEventListener("DOMContentLoaded", () => {
     
     Idk how to express or how to make people feel important or special but hai tum mere liye dono i 
     know ye feel karwana chaiye, naki ase bolna chaiye but you know mereko ata nhi ye shyd 🥲 but i will learn, i know mera overthinking or 
-    over bolne se har bar tum hurt hui hai but still tum apna gussa side karke pehle mereko samjhane ka koshish ki har baar and everytime
+    over bolne se har bar tum hurt hui hai but still tum apna gussa side karke pehle mereko samjhane ka koshish ki har baar and 
     You made me a better person :) Thank You For That, Likhne zada ata nhi hai toh bass itna hi🥲
     
 
@@ -493,6 +493,7 @@ Happy Birthday, Bhalu🐻Forever✨`;
   });
 
 });
+
 
 
 
