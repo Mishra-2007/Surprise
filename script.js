@@ -479,6 +479,7 @@ hosake toh ham dono bhi hamesha sath rahe
 
 Happy Birthday, Bhalu🐻Forever✨`;
 
+
     let i = 0;
     textEl.innerHTML = "";
 
@@ -493,14 +494,4 @@ Happy Birthday, Bhalu🐻Forever✨`;
   });
 
 });
-
-
-
-
-
-
-
-
-
-
 
