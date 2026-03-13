@@ -404,8 +404,7 @@ const songs = [
   "music18.mp3",
    "music19.mp3",
    "music20.mp3",
-   "music21.mp3",
-   "Tumse Kiran Dhoop Ki [128 Kbps]-(SongsPk.com.se).mp3'
+   "music21.mp3"
 ];
 
 // 🔊 USER GESTURE — REQUIRED
@@ -494,6 +493,7 @@ Happy Birthday, Bhalu🐻Forever✨`;
   });
 
 });
+
 
 
 
