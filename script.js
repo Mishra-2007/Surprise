@@ -463,19 +463,18 @@ document.addEventListener("DOMContentLoaded", () => {
     card.classList.add("open");
 
     const message = `Happy Birthday To One And Only
-    Aloo Bhalu Andu Vaidehi Rasgullaaa All In One Anandita :)  💗
-    
-    Idk how to express or how to make people feel important or special but hai tum mere liye dono i 
-    know ye feel karwana chaiye, naki ase bolna chaiye but you know mereko ata nhi ye shyd 🥲 but i will learn, i know mera overthinking or 
-    over bolne se har bar tum hurt hui hai but still tum apna gussa side karke pehle mereko samjhane ka koshish ki har baar and 
-    You made me a better person :) Thank You For That, Likhne zada ata nhi hai toh bass itna hi🥲
-    
+    Aloo Bhalu Andu Vaidehi Rasgullaaa All In One Anandita :)💗
 
+    Even though tum dimag bahut khrab karti hai par kabhi asa gussa nhi ata tere pe (abb tera question hoga "kyu" )
+    because isse pehle ham tereko bahut jhelaye hue hai aur tum pehle samjhati thi fir gussa karti thi 
+    so maybe because of that or wot idk but tere wajah se bahut kuch acha changes aya hai mere mein asa hamko kuch log bole 
+    like tere tokte rehne ke wajah se mere mein negativity kafi kaam hogya, patience bahut badh gya and aur bhi hai, Thank You for developing my character.
+    Aur kya tarif sunna hai kya :). Bauni hai anger issues hai mereko hate karti hai but hai fir bhi bahut achi. khair ajj ke liye bas itna hi :).
+    
 Bhagwan kare tum hamesha khush rahe aur tereko jo chaiye wo mil jaye 
-hosake toh ham dono bhi hamesha sath rahe
- ya jabtak rahe tab tak ham Tereko khush kar sake 🌸
+(compulsory ashirwad :) 🌸
 
- And idk how or why but you are my most Favourite person🌻🌻
+ And idk how or why but you are my most Favourite person(kab tak rahegi ye nhi ptaaa huhhh)🌻🌻
 
 Happy Birthday, Bhalu🐻Forever✨`;
 
