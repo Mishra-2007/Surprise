@@ -126,7 +126,7 @@ function startBirthdaySequence() {
   setTimeout(() => cake.classList.add("cut"), 4000);
   setTimeout(() => {
   showBirthdayVideo();
-}, 8000); // 4s cut + 2s wait
+}, 11000); // 4s cut + 2s wait
 
 
  setTimeout(() => {
