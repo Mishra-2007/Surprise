@@ -384,7 +384,7 @@ const cakeMusic = document.getElementById("cake-music");
 let audioUnlocked = false;
 
 const songs = [
-  "music1.mp3",
+  "music01.mp3",
   "music2.mp3",
   "music3.mp3",
   "music4.mp3",
